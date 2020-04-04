@@ -9,6 +9,9 @@
         {{ if isset .Site.Params "showhugo" }}
              | Built on <a href="//gohugo.io" target="_blank">Hugo</a>
         {{ end }}
+        {{ if isset .Site.Params "hosted" }}
+             | Hosted on <a href="//https://aws.amazon.com/amplify/" target="_blank">AWS</a>
+        {{ end }}
     </p>
     <p class="text-center">
         {{ with .Site.Params.facebook }}<a href="{{ . }}">Facebook</a> {{ end }}

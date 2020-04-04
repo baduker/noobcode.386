@@ -1,5 +1,5 @@
 baseURL = "https://noobcode.info"
-title = "N00bCode.386"
+title = "N00bCode.info"
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "hugo.386"
@@ -7,22 +7,25 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "N00bCode.info - v.0.1.1"
+    mainpagetitle = "N00bCode.info - v.0.1.3"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome (back) to the 90s!" 
+    mainpagesubtitle = "Hello stranger! Welcome to my personal site." 
 
     # The name to display as main title in the home page
-    mainpagedesc = "N00bCode.info is a noobish site with a retro look."
+    mainpagedesc = "N00bCode.info is my personal site."
 
     # The name to display in the copyright section in the footer
     copyrightname = "baduker"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://whatthecommit.com"
+    copyrighturl = "https://github.com/baduker"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
+
+    # Show the "hosted on" disclaimer
+    hosted=true
 
     # Urls for social networks
     linkedin = "https://www.linkedin.com/in/maciekt/"
@@ -38,18 +41,24 @@ preserveTaxonomyNames = true
     loadonepass = true
 
 [menu]
-
   [[menu.main]]
-    identifier = "about"
-    name = "About Hugo"
-    url = "/about/"
+    identifier = "baduker"
+    name = "Who Am I?"
+    url = "/whoami/"
     weight = 10
+
 
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post/"
-    weight = 10
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Hugo"
+    url = "/about/"
+    weight = 30
 
 [taxonomies]
 category = "categories"
