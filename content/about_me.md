@@ -16,7 +16,7 @@ categories = [
 
 ## About me
 
-This isn't a simple question.
+Some really cool stuff about me coming soon!
 
 ## About the site
 
