@@ -2,33 +2,31 @@
 author = "baduker"
 title = "baduker -> noobcode.info"
 date = "2020-04-04"
-description = "My first blog entry."
+description = "noobcode.info is live! Ergo, this is my first blog post. Ever."
 tags = [
-    "html",
-    "go",
     "baduker",
-    "noob",
 ]
 categories = [
-    "noob talks",
+    "the Post",
 ]
-series = ["Noob Talks"]
-aliases = ["noob-talks"]
 +++
 
-This modest blog post offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+## The first paragraph
 
-## Paragraph
+On this day, [baduker](https://github.com/baduker) crawled out of the tar pit of non-existance and with a handful of terminal commands established himself on this modest retro-looking website.
 
-This is my first paragraph.
+Here you can read about his:
 
-I don't know much about Hugo but I'm going to learn it.
+1. [quests](/resume)
+2. [player tab](/about_me)
+3. [get in touch](/contact)
 
-#### Here's a quote.
+I guess that's it.
+
+#### Here's a quote for you.
 
 > Don't communicate by sharing memory, share memory by communicating.</p>
 > — <cite>Rob Pike[^1]</cite>
 
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+[^1]: The quote comes from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.

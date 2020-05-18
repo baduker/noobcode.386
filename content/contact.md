@@ -4,6 +4,14 @@ description = "Thanks for visiting! Feel free to drop me a line. Or two."
 date = "2020-05-18"
 aliases = ["contact"]
 author = "baduker"
+tags = [
+    "baduker",
+    "keep in touch"
+]
+categories = [
+    "baduker",
+    "contact"
+]
 +++
 
 ### Let's keep in touch!
