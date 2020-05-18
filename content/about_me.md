@@ -6,7 +6,6 @@ aliases = ["about-me","about"]
 author = "baduker"
 tags = [
     "baduker",
-    "noob",
     "hugo",
     "386",
 ]
@@ -25,7 +24,7 @@ N00bCode.info is built entierely with [Hugo](https://gohugo.io/) and it's hosted
 
 ##### What's Hugo?
 
-Hugo, written in Go, is the world's fastest framework for building websites, and it's for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Hugo, written in Go, is the world's fastest framework for building websites. Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
 
 ##### The 386 look

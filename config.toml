@@ -7,7 +7,7 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "N00bCode.info - v.0.1.4"
+    mainpagetitle = "N00bCode.info - v.0.1.6"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Hello stranger! Welcome to the world of Noob Code." 
@@ -21,7 +21,7 @@ preserveTaxonomyNames = true
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "https://github.com/baduker"
 
-    # Show the "built with Hugo" disclaimer
+    # Show the "built on Hugo" disclaimer
     showhugo = true
 
     # Show the "hosted on" disclaimer
@@ -42,7 +42,7 @@ preserveTaxonomyNames = true
 
 [menu]
   [[menu.main]]
-    identifier = "baduker"
+    identifier = "resume"
     name = "Resume"
     url = "/resume/"
     weight = 10

@@ -6,7 +6,7 @@ aliases = ["contact"]
 author = "baduker"
 tags = [
     "baduker",
-    "keep in touch"
+    "contact"
 ]
 categories = [
     "baduker",
