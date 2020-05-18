@@ -1,2 +1,5 @@
 # noobcode.386
-Sample Hugo page with a custom theme.
+
+The code for my home page [N00bCode.info](https://noobcode.info).
+
+![a blast from the past](index_0_1_5.png)
