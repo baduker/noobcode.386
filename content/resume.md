@@ -20,9 +20,9 @@ categories = [
 <br />
 
 ### JUNIOR PYTHON DEVELOPER @ [TDCM](https://tdcm.io/) | Warsaw, Poland
-#### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: PYTHON, AWS, LINUX, GOLANG
-
-* **0ct 2019 - Present | 8 MONTHS**
+#### TECH STACK: PYTHON, AWS, LINUX, GOLANG
+##### TIMELINE: **0ct 2019 - Present | DURATION: 8 MONTHS**
+<br />
 * -> Maintaining, refactoring, and debugging legacy code in Python
 * -> Developing new features using AWS Lambda, EC2, and S3
 * -> Data sanitization and quality control
@@ -30,9 +30,9 @@ categories = [
 <br />
 
 ### TECHNICAL SUPPORT SPECIALIST @ [delavo](https://dealavo.com/en/) | Warsaw, Poland
-#### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: PYTHON, FLASK, LINUX, BASH, JIRA
-
-* **Aug 2019 - Oct 2019 | 3 MONTHS**
+#### TECH STACK: PYTHON, FLASK, LINUX, BASH, JIRA
+##### TIMELINE: **Aug 2019 - Oct 2019 | DURATION: 3 MONTHS**
+<br />
 * -> Developing and maintaining web spiders and scrapers in Python
 * -> Creating, maintaining,and supporting Clients' Accounts
 * -> Fine tuning and debugging matching algorithms 
@@ -40,15 +40,14 @@ categories = [
 * -> Developing own tools in a Unix environment (Bash & Python scripting)
 
 ### INFORMATION TECHNOLOGY PROJECT MANAGER @ [FIS](https://www.fisglobal.com/) | Warsaw, Poland
-#### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: WINDOWS, PYTHON
-
-* **Apr 2019 - Jul 2019 | 4 MONTHS**
+#### TECH STACK: WINDOWS, PYTHON
+##### TIMELINE: **Apr 2019 - Jul 2019 | DURATION: 4 MONTHS**
+<br />
 * -> STUFF TO BE ADDED
 
 ### ESL TEACHER @ [Kern Global](https://www.e-kern.com/en/) | Hamburg, Germany
-#### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: NIL - THIS WAS A NON-TECHNICAL ROLE
-
-* **Oct 2017 - Feb 2019 | 1 YEAR & 5 MONTHS**
+#### TECH STACK: NIL - THIS WAS A NON-TECHNICAL ROLE
+##### TIMELINE: **Oct 2017 - Feb 2019 | DURATION: 1 YEAR & 5 MONTHS**
 * -> STUFF TO BE ADDED
 <br />
 

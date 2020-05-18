@@ -7,7 +7,7 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "N00bCode.info - v.0.1.8b"
+    mainpagetitle = "N00bCode.info - v.0.1.8C"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Hello stranger! Welcome to the world of Noob Code." 
