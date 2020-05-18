@@ -21,7 +21,6 @@ categories = [
 
 ### JUNIOR PYTHON DEVELOPER @ [TDCM](https://tdcm.io/) | Warsaw, Poland
 #### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: PYTHON, AWS, LINUX, GOLANG
-<br />
 
 * **0ct 2019 - Present | 8 MONTHS**
 * -> Maintaining, refactoring, and debugging legacy code in Python
@@ -32,7 +31,6 @@ categories = [
 
 ### TECHNICAL SUPPORT SPECIALIST @ [delavo](https://dealavo.com/en/) | Warsaw, Poland
 #### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: PYTHON, FLASK, LINUX, BASH, JIRA
-<br />
 
 * **Aug 2019 - Oct 2019 | 3 MONTHS**
 * -> Developing and maintaining web spiders and scrapers in Python
@@ -40,19 +38,15 @@ categories = [
 * -> Fine tuning and debugging matching algorithms 
 * -> Creating and maintaining data sentinels
 * -> Developing own tools in a Unix environment (Bash & Python scripting)
-<br />
 
 ### INFORMATION TECHNOLOGY PROJECT MANAGER @ [FIS](https://www.fisglobal.com/) | Warsaw, Poland
 #### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: WINDOWS, PYTHON
-<br />
 
 * **Apr 2019 - Jul 2019 | 4 MONTHS**
 * -> STUFF TO BE ADDED
-<br />
 
 ### ESL TEACHER @ [Kern Global](https://www.e-kern.com/en/) | Hamburg, Germany
 #### &nbsp;&nbsp;&nbsp;&nbsp;TECH STACK: NIL - THIS WAS A NON-TECHNICAL ROLE
-<br />
 
 * **Oct 2017 - Feb 2019 | 1 YEAR & 5 MONTHS**
 * -> STUFF TO BE ADDED
@@ -74,52 +68,11 @@ Godlike: +++++ | Knowledgeable: ++++ | Comfortable: +++ | Apprentice: ++ | Novic
 
 #### TOOLS & TECHNOLOGIES:
 <br />
-* **Python**:
-    * Coding ++++
-    * TDD +++
-    * Clean Code ++++
-    * Code Review +++
-    * Flask +
-* **Go(lang)**:
-    * Coding +
-    * Clean Code +
-    * Code Review +
-    * TDD +
-    * Hugo +
-* **AWS**:
-    * Overall +++ 
-    * S3 +++
-    * EC2 +++
-    * Lambda +++
-    * IAM ++
-    * API Gateway ++
-    * DynamoDB +
-* **Linux** +++
-* **Bash** ++
-* **Git** +++
-* **Docker** +
-* **SQL** ++
-* **CI/CD** ++
-* **IDE's**:
-    * PyCharm ++++
-    * Goland ++
-    * Sublime ++
-    * VIM ++
+
 
 #### INDUSTRY KNOWLEDGE:
 <br />
-* **Software Development** +++
-* **Debugging** +++
-* **Project Management** +
-* **Technical Support** ++
-* **Analytical Skills** +++
-* **Quality Assurance** +++
-* **Troubleshooting** +++
-* **Data Analysis** +++
+
 
 #### INTERPERSONAL SKILLS:
 <br />
-* **Communication** ++++
-* **Teamwork** ++++
-* **Team Management** +++
-* **Team Leadership** ++
