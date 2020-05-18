@@ -7,13 +7,13 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "N00bCode.info - v.0.1.3"
+    mainpagetitle = "N00bCode.info - v.0.1.4"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Hello stranger! Welcome to my personal site." 
+    mainpagesubtitle = "Hello stranger! Welcome to the world of Noob Code." 
 
     # The name to display as main title in the home page
-    mainpagedesc = "N00bCode.info is my personal site."
+    mainpagedesc = "N00bCode.info is both a baduker's personal site and a side project to learn the Go programming language and the Hugo framework. Feel free to look around by checking out some of the blog posts or simply navigate yourself to one of the main pages at the very top of the screen."
 
     # The name to display in the copyright section in the footer
     copyrightname = "baduker"
@@ -21,7 +21,7 @@ preserveTaxonomyNames = true
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "https://github.com/baduker"
 
-    # Show the "built on Hugo" disclaimer
+    # Show the "built with Hugo" disclaimer
     showhugo = true
 
     # Show the "hosted on" disclaimer
@@ -43,45 +43,49 @@ preserveTaxonomyNames = true
 [menu]
   [[menu.main]]
     identifier = "baduker"
-    name = "Who Am I?"
-    url = "/whoami/"
+    name = "Resume"
+    url = "/resume/"
     weight = 10
 
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about_me/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 30
 
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About Hugo"
-    url = "/about/"
-    weight = 30
+    weight = 40
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 
-
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.twitter]
-    disabled = false
+    disabled = true
     enableDNT = true
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
-    disabled = false
+    disabled = true
     privacyEnhanced = true
 
 [services]
