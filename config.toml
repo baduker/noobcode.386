@@ -1,5 +1,5 @@
 baseURL = "https://noobcode.info"
-title = "N00bCode.info"
+title = "n00bCod3.1nf0"
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "hugo.386"
@@ -7,13 +7,13 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "N00bCode.info - v.0.1.8E"
+    mainpagetitle = "NoobCode.info - v.0.1.9"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Hello stranger! Welcome to the world of Noob Code." 
 
     # The name to display as main title in the home page
-    mainpagedesc = "N00bCode.info is both a baduker's personal site and a side project to learn the Go programming language and the Hugo framework. Feel free to look around by checking out some of the blog posts or simply navigate yourself to one of the main pages at the very top of the screen."
+    mainpagedesc = "NoobCode.info is both a baduker's personal site and a side project to learn the Go programming language and the Hugo framework. Feel free to look around by checking out some of the blog posts or simply navigate yourself to one of the main pages at the very top of the screen."
 
     # The name to display in the copyright section in the footer
     copyrightname = "baduker"

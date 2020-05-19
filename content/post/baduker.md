@@ -7,7 +7,7 @@ tags = [
     "baduker",
 ]
 categories = [
-    "the Post",
+    "the Baduker Post",
 ]
 +++
 
@@ -17,13 +17,13 @@ On this day, [baduker](https://github.com/baduker) crawled out of the tar pit of
 
 Here you can:
 
-1. read about his [quests](/resume)
-2. check out baduker's [configuration](/about_me)
-3. and if you feel like it, [drop him a line](/contact)
+1. read about his [quests](/quests)
+2. check out baduker's [configuration](/configuration)
+3. and if you feel like it, [drop him a line](/drop_me_a_line)
 
 Other than that, there's not much here. It's just a simple, first blog post. Ever.
 
-The portfolio lives [here](https://github.com/baduker). For networking, followe the yellow link at the bottom that starts with the letter ```L```.
+The portfolio lives [here](https://github.com/baduker) (for now). For networking, follow the yellow link at the bottom that starts with the letter ```L```.
 
 #### Here's a quote for you.
 

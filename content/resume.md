@@ -14,8 +14,6 @@ categories = [
 ]
 +++
 
-## *** WORK IN PROGRESS! ***
-<br />
 ## *** EXPERIENCE ***
 <br />
 
@@ -25,9 +23,12 @@ categories = [
 <br />
 
 - -> Maintaining, refactoring, and debugging legacy code in Python
-- -> Developing new features using AWS Lambda, EC2, and S3
+- -> Co-developing new applications and features using Python and the AWS stack
+- -> Building discord bots for internal purposes
 - -> Data sanitization and quality control
 - -> Creating automation scripts
+- -> Peer Code Review
+- -> Preparing and conducting internal Tech Lectures
 
 <br />
 
@@ -49,9 +50,9 @@ categories = [
 ##### TIMELINE: **Apr 2019 - Jul 2019 | DURATION: 4 MONTHS**
 <br />
 
-- -> STUFF TO BE ADDED
-- -> STUFF TO BE ADDED
-- -> STUFF TO BE ADDED
+- -> Transition / Upgrade / Decommission process management of Client’s on-site data centers, database servers, and applications
+- -> Technical and functional troubleshooting
+- -> Python scripting for internal reporting purposes
 
 <br />
 
@@ -60,9 +61,12 @@ categories = [
 ##### TIMELINE: **Oct 2017 - Feb 2019 | DURATION: 1 YEAR & 5 MONTHS**
 <br />
 
-- -> STUFF TO BE ADDED
-- -> STUFF TO BE ADDED
-- -> STUFF TO BE ADDED
+- -> ESL Head Trainer at Lufthansa Technik AG, Hamburg, Germany
+- -> In-company ESL tuition for adults to enhance communication skills and
+further professional development
+- -> Designing and implementing educational materials
+- -> Language skill assessment
+- -> Progress reporting and language support
 
 <br />
 
