@@ -53,7 +53,6 @@ categories = [
 - -> STUFF TO BE ADDED
 - -> STUFF TO BE ADDED
 
-
 <br />
 
 ### ESL TEACHER @ [Kern Global](https://www.e-kern.com/en/) | Hamburg, Germany
@@ -64,7 +63,6 @@ categories = [
 - -> STUFF TO BE ADDED
 - -> STUFF TO BE ADDED
 - -> STUFF TO BE ADDED
-
 
 <br />
 
@@ -85,10 +83,70 @@ Godlike: +++++ | Knowledgeable: ++++ | Comfortable: +++ | Apprentice: ++ | Novic
 #### TOOLS & TECHNOLOGIES:
 <br />
 
+- -> **Python:**
+    - Coding +++
+    - TDD +++
+    - Clean Code +++
+    - Code Review ++
+    - Frameworks: Flask ++
+- -> **Go(lang):**
+    - Coding ++
+    - TDD ++
+    - Clean Code +
+    - Code Review +
+    - Frameworks: Hugo ++
+- -> **VCS:**
+    - Git +++
+    - Github +++
+    - Gitactions +
+- -> **Linux:**
+    - Terminal +++
+    - Bash ++
+- -> **AWS:**
+    - EC2 ++
+    - Lambda +++
+    - S3 +++
+    - DynamoDB ++
+    - IAM ++
+    - API Gateway ++
+    - CloudWatch ++
+    - CloudFormation +
+- -> **SQL:**
+    - PostgreSQL ++
+    - MySQL ++
+    - Amazon Aurora +
+- -> **Docker:** ++
+- -> **Kubernetes:** +
+- -> **JIRA:** ++
+- -> **IDE's:**
+    - PyCharm +++
+    - Goland ++
+    - Sublime +++
+    - VIM ++
+- -> **Other:**
+    - PostMan ++
+    - XPath ++
+    - RegEx +++
 
 #### INDUSTRY KNOWLEDGE:
 <br />
 
+- -> **Software Development** ++
+- -> **Debugging** +++
+- -> **Troubleshooting** +++
+- -> **Analytical Skills** +++
+- -> **Data Analysis** +++
+- -> **Quality Assurance** +++
+- -> **Technical Support** ++
+- -> **Project Management** +++
+
 
 #### INTERPERSONAL SKILLS:
+<br />
+
+- -> **Communication** ++++
+- -> **Team Management** +++
+- -> **Team Leadership** +++
+- -> **Teamwork** ++++
+
 <br />
