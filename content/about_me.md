@@ -29,4 +29,4 @@ Hugo, written in Go, is the world's fastest framework for building websites. Hug
 
 ##### The 386 look
 
-The theme was created by [Max le Fou](https://gitlab.com/maxlefou/hugo.386) and fine tuned by me.
+The theme was created by [JM Fergeau](https://jmf-portfolio.netlify.com) and fine tuned by me.
