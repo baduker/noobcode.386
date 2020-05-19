@@ -23,32 +23,49 @@ categories = [
 #### TECH STACK: PYTHON, AWS, LINUX, GOLANG
 ##### TIMELINE: **0ct 2019 - Present | DURATION: 8 MONTHS**
 <br />
-* -> Maintaining, refactoring, and debugging legacy code in Python
-* -> Developing new features using AWS Lambda, EC2, and S3
-* -> Data sanitization and quality control
-* -> Creating automation scripts
+
+- -> Maintaining, refactoring, and debugging legacy code in Python
+- -> Developing new features using AWS Lambda, EC2, and S3
+- -> Data sanitization and quality control
+- -> Creating automation scripts
+
 <br />
 
 ### TECHNICAL SUPPORT SPECIALIST @ [delavo](https://dealavo.com/en/) | Warsaw, Poland
 #### TECH STACK: PYTHON, FLASK, LINUX, BASH, JIRA
 ##### TIMELINE: **Aug 2019 - Oct 2019 | DURATION: 3 MONTHS**
 <br />
-* -> Developing and maintaining web spiders and scrapers in Python
-* -> Creating, maintaining,and supporting Clients' Accounts
-* -> Fine tuning and debugging matching algorithms 
-* -> Creating and maintaining data sentinels
-* -> Developing own tools in a Unix environment (Bash & Python scripting)
+
+- -> Developing and maintaining web spiders and scrapers in Python
+- -> Creating, maintaining,and supporting Clients' Accounts
+- -> Fine tuning and debugging matching algorithms 
+- -> Creating and maintaining data sentinels
+- -> Developing own tools in a Unix environment (Bash & Python scripting)
+
+<br />
 
 ### INFORMATION TECHNOLOGY PROJECT MANAGER @ [FIS](https://www.fisglobal.com/) | Warsaw, Poland
 #### TECH STACK: WINDOWS, PYTHON
 ##### TIMELINE: **Apr 2019 - Jul 2019 | DURATION: 4 MONTHS**
 <br />
-* -> STUFF TO BE ADDED
+
+- -> STUFF TO BE ADDED
+- -> STUFF TO BE ADDED
+- -> STUFF TO BE ADDED
+
+
+<br />
 
 ### ESL TEACHER @ [Kern Global](https://www.e-kern.com/en/) | Hamburg, Germany
 #### TECH STACK: NIL - THIS WAS A NON-TECHNICAL ROLE
 ##### TIMELINE: **Oct 2017 - Feb 2019 | DURATION: 1 YEAR & 5 MONTHS**
-* -> STUFF TO BE ADDED
+<br />
+
+- -> STUFF TO BE ADDED
+- -> STUFF TO BE ADDED
+- -> STUFF TO BE ADDED
+
+
 <br />
 
 There's more, but I didn't want to make it too long. So, if the above list
