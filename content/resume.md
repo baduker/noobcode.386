@@ -19,7 +19,7 @@ categories = [
 
 ### JUNIOR PYTHON DEVELOPER @ [TDCM](https://tdcm.io/) | Warsaw, Poland
 #### TECH STACK: PYTHON, AWS, LINUX, GOLANG
-##### TIMELINE: **0ct 2019 - Present | DURATION: 8 MONTHS**
+##### TIMELINE: **0ct 2019 - Present | DURATION: 9 MONTHS**
 <br />
 
 - -> Maintaining, refactoring, and debugging legacy code in Python
@@ -80,77 +80,67 @@ either my LinkedIn [profile](https://www.linkedin.com/in/maciekt/) or
 
 <br />
 
-**-> Skill rank key:
-Godlike: +++++ | Knowledgeable: ++++ | Comfortable: +++ | Apprentice: ++ | Novice: +**
-<br />
-
 #### TOOLS & TECHNOLOGIES:
 <br />
 
 - -> **Python:**
-    - Coding +++
-    - TDD +++
-    - Clean Code +++
-    - Code Review ++
-    - Frameworks: Flask ++
+    - Coding, TDD, Clean Code, Code Review
+    - Frameworks: Flask
 - -> **Go(lang):**
-    - Coding ++
-    - TDD ++
-    - Clean Code +
-    - Code Review +
-    - Frameworks: Hugo ++
+    - Coding, TDD, Clean Code, Code Review
+    - Frameworks: Hugo
 - -> **VCS:**
-    - Git +++
-    - Github +++
-    - Gitactions +
+    - Git
+    - Github
+    - Gitactions
 - -> **Linux:**
-    - Terminal +++
-    - Bash ++
+    - Terminal 
+    - Bash 
 - -> **AWS:**
-    - EC2 ++
-    - Lambda +++
-    - S3 +++
-    - DynamoDB ++
-    - IAM ++
-    - API Gateway ++
-    - CloudWatch ++
-    - CloudFormation +
+    - EC2 
+    - Lambda 
+    - S3 
+    - DynamoDB 
+    - IAM 
+    - API Gateway 
+    - CloudWatch 
+    - CloudFormation 
 - -> **SQL:**
-    - PostgreSQL ++
-    - MySQL ++
-    - Amazon Aurora +
-- -> **Docker:** ++
-- -> **Kubernetes:** +
-- -> **JIRA:** ++
+    - PostgreSQL 
+    - MySQL 
+    - Amazon Aurora 
+- -> **Docker** 
+- -> **Kubernetes** 
+- -> **JIRA** 
 - -> **IDE's:**
-    - PyCharm +++
-    - Goland ++
-    - Sublime +++
-    - VIM ++
+    - PyCharm 
+    - Goland 
+    - Sublime 
+    - VIM 
 - -> **Other:**
-    - PostMan ++
-    - XPath ++
-    - RegEx +++
+    - PostMan 
+    - XPath 
+    - RegEx 
 
 #### INDUSTRY KNOWLEDGE:
 <br />
 
-- -> **Software Development** ++
-- -> **Debugging** +++
-- -> **Troubleshooting** +++
-- -> **Analytical Skills** +++
-- -> **Data Analysis** +++
-- -> **Quality Assurance** +++
-- -> **Technical Support** ++
-- -> **Project Management** +++
+- -> **Software Development** 
+- -> **Debugging** 
+- -> **Troubleshooting** 
+- -> **Analytical Skills** 
+- -> **Data Analysis** 
+- -> **Quality Assurance** 
+- -> **Technical Support** 
+- -> **Project Management** 
 
 
 #### INTERPERSONAL SKILLS:
 <br />
 
-- -> **Communication** ++++
-- -> **Team Management** +++
-- -> **Team Leadership** +++
-- -> **Teamwork** ++++
+- -> **Communication** 
+- -> **Team Management** 
+- -> **Team Leadership** 
+- -> **Teamwork** 
 
 <br />
